@@ -1,0 +1,1 @@
+This program uses a Minimax algorithm, including alpha-beta pruning, and a rational evaluation function.  It supports boards and winning line length of various sizes.
